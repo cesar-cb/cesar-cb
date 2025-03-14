@@ -6,9 +6,7 @@
 <p>
   <samp> I am a 27 years old Front End Developer with 9+ years of professional experience.</samp>
 
-  <samp> Self-taught, currently focused on React</samp>
-
-  <samp> Experience with CSS methodologies like BEM and RSCSS (Styled Components for React)</samp>
+  <samp> Self-taught, currently focused on React, Next Js and Typscript</samp>
 
   <samp> Deep JS concepts like Prototypes, Closures, Functional Programming, Asynchronous Programming and Event Loop</samp> 
 </p> 
