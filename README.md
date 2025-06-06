@@ -11,7 +11,7 @@
   <samp> Deep JS concepts like Prototypes, Closures, Functional Programming, Asynchronous Programming and Event Loop</samp> 
 </p> 
 
-💻 Frontend Software Engineer @ [EmCasa](https://emcasa.com/)
+💻 Frontend Software Engineer @ [Wellhub](https://wellhub.com/)
 
 <hr>
 
