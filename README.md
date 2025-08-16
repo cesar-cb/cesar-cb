@@ -4,7 +4,7 @@
 <hr>
 
 <p>
-  <samp> I am a 27 years old Front End Developer with 9+ years of professional experience.</samp>
+  <samp> I am a 28 years old Front End Developer with 9+ years of professional experience.</samp>
 
   <samp> Self-taught, currently focused on React, Next Js and Typscript</samp>
 
